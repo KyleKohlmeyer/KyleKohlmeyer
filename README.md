@@ -10,7 +10,7 @@ It has been the best decision of my life!
 I enjoy coding and working with data, and there is nothing more satifying than when your code finally works and outputs what you want.
 
 ## Bootcamp summary
-In the Northwestern Bootcamp, I have:
+### In the Northwestern Bootcamp, I have:
   -Created a VBA script to analyze stock data in Excel and apply formatting, saving time on the data analysis for large Excel datasets with multiple sheets.
   
   -Used Python and the Open Weather API to compile and graph weather data from 1,000 randomly selected cities, and performed linear regression analysis to         determine which weather conditions are correlated with latitude
