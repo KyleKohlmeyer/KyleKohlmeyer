@@ -23,7 +23,7 @@ I enjoy coding and working with data, and there is nothing more satifying than w
   
 ### This is not an all-inclusive list, please check out my repositories for more information and details
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=python,PostgreSQL,jupyternotebook,figma&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,postgres,jupyternotebook,selenium,visualstudio,mongodb, figma&theme=light)](https://skillicons.dev)
 ## Previous work experiences outside of data analytics
 ### Founder of DarkfireBricks (2020 - Current)
 As a side hobby, I founded an online store selling used Lego that has grossed $10,000 in revenue.
