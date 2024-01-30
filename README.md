@@ -21,7 +21,7 @@ I enjoy coding and working with data, and there is nothing more satifying than w
 
   -Utilized the Flask and SQLAlchemy Python libraries to create an application to retrieve temperature and precipitation data from an SQLite database, making accessing the data less time consuming and more efficient
   
-### This is not an all inclusive list, please check out my repositories for more information and details
+### This is not an all-inclusive list, please check out my repositories for more information and details
 
 ## Previous work experiences outside of data analytics
 ### Founder of DarkfireBricks (2020 - Current)
