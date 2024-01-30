@@ -23,7 +23,7 @@ I enjoy coding and working with data, and there is nothing more satifying than w
   
 ### This is not an all inclusive list, please check out my repositories for more information and details
 
-## Previous work experiences outside of Data Analytics
+## Previous work experiences outside of data analytics
 ### Founder of DarkfireBricks (2020 - Current)
 As a side hobby, I founded an online store selling used Lego that has grossed $10000 in revenue.
 After starting out on Ebay, I decided to shift to Mercari in 2021 due to its ease of listing items and decreased competition.
