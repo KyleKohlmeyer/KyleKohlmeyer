@@ -25,19 +25,19 @@ After starting out on Ebay, I decided to shift to Mercari in 2021 due to its eas
 I have completed 110+ orders on Mercari with an average order value (AOV) of $67.04.
 The store receives an average of 144 item views per day, though this number is lower than usual with a lull in new items listed over the holidays.
 
-## Associate Instructor at Indiana University (2022-2023)
+## Associate Instructor at Indiana University (2022 - 2023)
 I led an undergraduate organic chemistry laboratory section of 16 students, providing them with hands-on laboratory experience and ensuring that all EH&S waste disposal guidelines and safety protocols were followed in the teaching lab.
 
-## Undergraduate Researcher at Valparaiso University (
+## Undergraduate Researcher at Valparaiso University (2021)
 I designed procedures for steps in the synthesis of potential pterin antifungal compounds to make developing and testing derivatives more efficient.
 One of my favorite parts of my research was analyzing nuclear magnetic resonance (NMR) spectroscopy data to optimize experimental conditions such as temperature and solvent, which led to higher yield and quicker reaction times.
 
 ## Education
-### Chemistry Graduate Program, Indiana University | Bloomington, IN (August 2022 – May 2023)
+### Chemistry Graduate Program, Indiana University | Bloomington, IN (August 2022 - May 2023)
 Took graduate courses and conducted research in the field of organic chemistry (3.43 GPA).
 Utilized the Reaxys database and conducted experiments to develop procedures to make an intermediate compound for the synthesis of natural product Cyathin D.
 
-### B.S Biochemistry (American Chemical Society certified), Valparaiso University | Valparaiso, IN (August 2018 – May 2022)
+### B.S Biochemistry (American Chemical Society certified), Valparaiso University | Valparaiso, IN (August 2018 - May 2022)
 Graduated Summa Cum Laude (3.88 GPA).
 Member of the chemistry honors society, Phi Lambda Upsilon (2022 – Current).
 
