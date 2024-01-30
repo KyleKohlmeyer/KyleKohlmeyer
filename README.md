@@ -39,10 +39,12 @@ One of my favorite parts of my research was analyzing nuclear magnetic resonance
 ## Education
 ### Chemistry Graduate Program, Indiana University | Bloomington, IN (August 2022 - May 2023)
   -Took graduate courses and conducted research in the field of organic chemistry (3.43 GPA)
+  
   -Utilized the Reaxys database and conducted experiments to develop procedures to make an intermediate compound for the synthesis of natural product Cyathin D.
 
 ### B.S Biochemistry (American Chemical Society certified), Valparaiso University | Valparaiso, IN (August 2018 - May 2022)
   -Graduated Summa Cum Laude (3.88 GPA).
+  
   -Member of the chemistry honors society, Phi Lambda Upsilon (2022 – Current).
 
 
