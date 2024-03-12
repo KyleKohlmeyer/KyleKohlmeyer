@@ -25,7 +25,7 @@ I enjoy coding and working with data, and there is nothing more satifying than w
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,github,selenium,visualstudio,mongodb,figma&theme=light)](https://skillicons.dev)
 ## Previous work experiences outside of data analytics
-### Founder of DarkfireBricks (2020 - Current)
+## Founder of DarkfireBricks (2020 - Current)
 As a side hobby, I founded an online store selling used Lego that has grossed $10,000 in revenue.
 After starting out on Ebay, I decided to shift to Mercari in 2021 due to its ease of listing items and decreased competition.
 I have completed 110+ orders on Mercari with an average order value (AOV) of $67.04.
