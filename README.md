@@ -1,6 +1,5 @@
 # Hi there 👋
-### I am a student in the Northwestern Data Science and Visualization Bootcamp
-### Please check out my repositories to see some of the cool assignments and projects I have worked on as a part of the class
+### I am a student in the Northwestern Data Science and Visualization Bootcamp. Please check out my repositories to see some of the cool assignments and projects I have worked on as a part of the class
 
 ## About me
 I graduated with a biochemistry degree from Valparaiso University in 2022. 
