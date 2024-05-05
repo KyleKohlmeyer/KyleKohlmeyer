@@ -7,6 +7,7 @@ After attending a year of chemistry graduate school at Indiana University, I rea
 Thus, I left graduate school and enrolled in the Northwestern Data Science bootcamp. 
 It has been the best decision of my life! 
 I enjoy coding and working with data, and there is nothing more satifying than when the code finally works and outputs what you want.
+I am starting a new position as a Business Intelligence Analyst at Gaylor Electric.
 
 ## Bootcamp summary
 ### In the Northwestern Data Science bootcamp, I have:
@@ -20,7 +21,7 @@ I enjoy coding and working with data, and there is nothing more satifying than w
 
   -Utilized the Flask and SQLAlchemy Python libraries to create an application to retrieve temperature and precipitation data from an SQLite database, making accessing the data less time consuming and more efficient
   
-  -Designed random forest and logistic regression machine learning models to predict housing prices in Chicago based of data from the Cook County assessors office
+  -Designed random forest and logistic regression machine learning models to predict housing prices in Chicago based off data from the Cook County Assessors office
  
 ### This is not an all-inclusive list, please check out my repositories for more information and details
 ## Skills
@@ -30,7 +31,7 @@ I enjoy coding and working with data, and there is nothing more satifying than w
 As a side hobby, I founded an online store selling used Lego that has grossed $10,000 in revenue.
 After starting out on Ebay, I decided to shift to Mercari in 2021 due to its ease of listing items and decreased competition.
 I have completed 110+ orders on Mercari with an average order value (AOV) of $67.04.
-The store receives an average of 144 item views per day
+The store receives an average of 144 item views per day.
 
 ### Associate Instructor at Indiana University (2022 - 2023)
 I led an undergraduate organic chemistry laboratory section of 16 students, providing them with hands-on laboratory experience and ensuring that all EH&S waste disposal guidelines and safety protocols were followed in the teaching lab. I also held office hours, assisted with the lecture, and graded for organic chemistry I.
