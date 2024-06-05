@@ -25,7 +25,7 @@ I am starting a new position as a Business Intelligence Analyst at Gaylor Electr
  
 ### This is not an all-inclusive list, please check out my repositories for more information and details
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,github,selenium,visualstudio,mongodb,dax,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,github,selenium,visualstudio,mongodb,figma&theme=light)](https://skillicons.dev)
 ## Previous work experience
 ### Founder of DarkfireBricks (2020 - Current)
 As a side hobby, I founded an online store selling used Lego that has grossed $10,000 in revenue.
