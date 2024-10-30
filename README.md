@@ -3,7 +3,7 @@
 
 ## About me
 I graduated with a biochemistry degree from Valparaiso University in 2022. 
-After attending a year of chemistry graduate school at Indiana University, I realized that I enjoyed working with data more than running experiments in the lab
+After attending a year of chemistry graduate school at Indiana University, I realized that I enjoyed working with data more than running experiments in the lab.
 Thus, I left graduate school and enrolled in the Northwestern Data Science bootcamp. 
 It has been the best decision of my life! 
 I enjoy coding and working with data, and there is nothing more satifying than when the code finally works and outputs what you want.
