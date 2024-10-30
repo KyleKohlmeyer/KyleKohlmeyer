@@ -7,7 +7,7 @@ After attending a year of chemistry graduate school at Indiana University, I rea
 Thus, I left graduate school and enrolled in the Northwestern Data Science bootcamp. 
 It has been the best decision of my life! 
 I enjoy coding and working with data, and there is nothing more satifying than when the code finally works and outputs what you want.
-I am starting a new position as a Business Intelligence Analyst at Gaylor Electric.
+I started working as a Business Intelligence Analyst at Gaylor Electric in May 2024.
 
 ## Bootcamp summary
 ### In the Northwestern Data Science bootcamp, I have:
