@@ -27,7 +27,8 @@ I started working as a Business Intelligence Analyst at Gaylor Electric in May 2
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,github,selenium,visualstudio,mongodb,figma&theme=light)](https://skillicons.dev)
 ## Work Experience
-### Business Intelligence Analyst at Gaylor Electric (2024 - Current)
+### Technology Analyst at Ascension (2025 - Current)
+### Business Intelligence Analyst at Gaylor Electric (2024 - 2025)
 I Built and deployed a Power BI dashboard for construction asset data, allowing manufacturing and operations to improve scheduling and progress tracking.
 As part of the dashboarding process, I met with several stakeholders to gather business requirements and to ensure that the way the data was being presented was effective for them and their teams.
 In addition to my dashboarding, I helped the company roll out a new HCM software, Ceridian Dayforce, by loading existing data into Dayforce and creating long term integrations to create and transfer data. As part of this process, I created Python scripts that converted tabular records to nested XML format using the Python ETree library so that existing employees could be transferred to the new system before it went live. Additionally, I created ETL processes using Python Azure Runbooks and SQLAlchemy to maintain data consistancy between the HCM software and the data warehouse. 
