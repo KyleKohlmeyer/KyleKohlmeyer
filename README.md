@@ -7,8 +7,8 @@ After attending a year of chemistry graduate school at Indiana University, I rea
 Thus, I left graduate school and enrolled in the Northwestern Data Science bootcamp. 
 It has been the best decision of my life! 
 I enjoy coding and working with data, and there is nothing more satifying than when the code finally works and outputs what you want.
-I started working as a Business Intelligence Analyst at Gaylor Electric in May 2024, where I am using my data skills to track construction and manufacturing process, and to implement ETL processes and integrations.
-
+I started working as a Business Intelligence Analyst at Gaylor Electric in May 2024, where I am used my data skills to track construction and manufacturing process, and to implement ETL processes and integrations.
+Currently I am a Technology Analyst at Ascecnsion, where I support the e-Builder application and implement new customizations and features.
 ## Bootcamp summary
 ### In the Northwestern Data Science bootcamp, I have:
   -Created a VBA script to analyze stock data in Excel and apply formatting, saving time on the data analysis for large Excel datasets with multiple sheets.
@@ -28,6 +28,7 @@ I started working as a Business Intelligence Analyst at Gaylor Electric in May 2
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,github,selenium,visualstudio,mongodb,figma&theme=light)](https://skillicons.dev)
 ## Work Experience
 ### Technology Analyst at Ascension (2025 - Current)
+I use my technical and programming skills to manage the Trimble e-Builder application, allowing the Planning, Design, and Construction team to efficiently manage their projects. This work includes working with business stakeholders to develop new processes, making updates to existing functionality, and ensuring that organizational security standards are met. Additionally, I coordinate with the software vendor, Trimble Inc., to implement new customizations and resolve software outages.
 ### Business Intelligence Analyst at Gaylor Electric (2024 - 2025)
 I Built and deployed a Power BI dashboard for construction asset data, allowing manufacturing and operations to improve scheduling and progress tracking.
 As part of the dashboarding process, I met with several stakeholders to gather business requirements and to ensure that the way the data was being presented was effective for them and their teams.
